@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976337515347",
+    "project_id": "injaz-delivery-3a928",
+    "storage_bucket": "injaz-delivery-3a928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976337515347:android:a5256d14a0c18da7b7e7a6",
+        "android_client_info": {
+          "package_name": "com.example.injaz_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976337515347-kurqkmg4gs3uvchq8nqpi8i10pek0j4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HYuhP6Vs6DUViqHGs4ndSIyVPIduQvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976337515347-kurqkmg4gs3uvchq8nqpi8i10pek0j4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
